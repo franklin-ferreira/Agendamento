@@ -1,2 +1,2 @@
 # Agendamento
- C#,Visual studio,SQL.
+ C#,Visual studio,Sql..
